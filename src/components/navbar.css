@@ -1,0 +1,25 @@
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Inconsolata', monospace;
+    padding: 2px;
+    width: 100%;
+    color: aliceblue;
+    gap:5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    
+   
+}
+a{ 
+    color: black;
+    text-decoration: none!important;
+}
+.loginlink{
+    color:rgb(55, 55, 242);
+}
+.logoutbtn{
+    width:100px;
+    border-radius: 3px;
+}
